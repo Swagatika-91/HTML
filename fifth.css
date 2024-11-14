@@ -1,0 +1,16 @@
+.box {
+    height: 80px;
+    width: 200px;
+    border: 1px black;
+    margin: 4px;
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+body {
+    background-color: yellowgreen;   
+}
+button {
+    background-color: crimson;
+    color: white;
+}

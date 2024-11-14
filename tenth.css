@@ -1,0 +1,21 @@
+h1 {
+    padding: 1rem;
+    color:beige;
+    background-color: blueviolet;
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 3rem;
+    height: fit-content;
+    width: fit-content;
+}
+
+div {
+    color: black;
+    background-color: greenyellow;
+    height: 448px;
+    width: 435px;
+    font-style: italic;
+    display: flex;
+    font-size: 5vmin;
+    margin-top: 5rem;
+}

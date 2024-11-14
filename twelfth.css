@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.row-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:left;
+    align-content: center;
+    list-style: none;
+    padding: 2px;
+    gap:3%;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: large;
+    width: 152vmin;
+    border-style: outset;
+    margin-bottom: 10px;
+    margin-left: 9rem;
+  }
+
+img {
+    object-fit:cover;
+    margin-top: 8rem;
+    margin-left:24rem;
+    height: 300px;
+    width: 300px;
+}
+
+.box {
+    border-style:inset;
+        height: 550px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        margin-bottom: 15px;
+        font-size: 1rem;
+        display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1),
+    0 8px 16px rgba(0, 0, 0, 0.1);
+  width: 70%;
+  margin-left: 20vmin;
+
+}
+
+p {
+    background-color: white;
+    color: blue;
+    font-size: 2rem;
+    display: flex;
+    margin-top: 2rem;
+    font-weight: bold;
+    text-align: center;
+    align-content: center;
+    margin-left: 20rem;
+}
+
+button {
+    background-color: white;
+    color: blue;
+    font-size: 0.5rem;
+    display: flex;
+    margin-top: 0.4Srem;
+    font-size: x-large;
+    text-align: center;
+    align-content: center;
+    margin-left: 30rem;
+    cursor: pointer;  
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.search {
+    font-size: 1.25rem;
+    padding: 0.25rem;
+    background-color: blueviolet;
+    color: aliceblue;
+    border-color: white;
+    width: 1rem; 
+    border-radius: 10%;
+    background-color: blueviolet;
+    display: flex;
+    margin-top: 0.5rem;
+    text-align: center;
+    margin-left: 23rem;
+    margin-top: auto;
+}
+
+.search-box {
+    box-sizing: content-box;
+    height: 2vmin;
+    width: 600%;
+    border-radius: 12%;
+    margin-left: 1.5rem;
+    border: solid #e6e7ec 0.5px;
+    cursor: pointer;
+    padding: 5px;
+    font-size: medium;
+}

@@ -1,0 +1,17 @@
+h1 {
+    background-color: darkorange;
+    color: black;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+div {
+    color: black;
+    background-color: greenyellow;
+    height: 340px;
+    width: 470px;
+    font-style: italic;
+    display: flex;
+    font-size: 4vmin;
+    margin-top: 5rem;
+}

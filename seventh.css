@@ -1,0 +1,16 @@
+h1 {
+    color: white;
+    background-color: brown;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+    color: black;
+    background-color: palevioletred;
+}
+div {
+    color: black;
+    background-color: greenyellow;
+    height: 150px;
+    width: 170px;
+}
